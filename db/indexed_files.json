@@ -1,0 +1,38 @@
+{
+    "what is python.txt": {
+        "mtime": 1780814001.2326782,
+        "size": 59,
+        "last_indexed": 1780814001.25955,
+        "chunks": 1
+    },
+    "project_guidelines.txt": {
+        "mtime": 1780814111.4201946,
+        "size": 441,
+        "last_indexed": 1780814111.8164046,
+        "chunks": 1
+    },
+    "project_beta.txt": {
+        "mtime": 1780819240.1526816,
+        "size": 441,
+        "last_indexed": 1780819240.180398,
+        "chunks": 1
+    },
+    "cybersecurity_playbook.txt": {
+        "mtime": 1780819910.534836,
+        "size": 1171,
+        "last_indexed": 1780819917.5844147,
+        "chunks": 3
+    },
+    "project_gamma.txt": {
+        "mtime": 1780819907.5791855,
+        "size": 802,
+        "last_indexed": 1780819917.7684412,
+        "chunks": 2
+    },
+    "quantum_computing.txt": {
+        "mtime": 1780819913.8385794,
+        "size": 1187,
+        "last_indexed": 1780819917.8345175,
+        "chunks": 4
+    }
+}

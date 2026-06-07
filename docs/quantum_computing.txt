@@ -1,0 +1,12 @@
+ACME CORP QUANTUM COMPUTING PRIMER
+Topic: Quantum Cryptography and Post-Quantum Security
+Release Type: Public Technical Primer
+
+1. Quantum Cryptography and Entanglement:
+Quantum Key Distribution (QKD) utilizes the properties of quantum mechanics to guarantee secure communication. By encoding key bits as photon polarizations, any eavesdropping attempt (which acts as a measurement) collapses the wave function and introduces detectable error rates. The BB84 protocol is the standard mechanism implemented on our fiber routes.
+
+2. Qubits and Superposition:
+Unlike classical bits, which represent either 0 or 1, quantum bits (qubits) exist in a linear superposition of states until measured. A 2-qubit system can exist in a superposition of 4 states simultaneously, allowing parallel computation paths that scale exponentially (2^N states for N qubits).
+
+3. Post-Quantum Cryptography (PQC):
+Shor's algorithm can factor large integers in polynomial time, compromising RSA and ECC encryption schemes. To secure ACME communications, we are transitioning to lattice-based post-quantum cryptography algorithms (such as Kyber and Dilithium), which are resistant to quantum decryption attempts.

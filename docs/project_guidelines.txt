@@ -1,0 +1,8 @@
+ACME CORP SECRET PROJECT INFO
+
+Code Name: Project Alpha
+Objective: Development of a modular artificial intelligence system for automated codebase maintenance.
+Key Personnel: Sarah Connor (Lead Scientist), John Connor (Chief Architect).
+Target Release Date: December 2026.
+Security Clearance: Level 4 or higher.
+Description: Project Alpha aims to solve the technical debt problem by using agentic coding helpers that refactor legacy systems.

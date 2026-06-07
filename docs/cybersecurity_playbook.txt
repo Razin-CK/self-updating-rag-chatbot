@@ -1,0 +1,18 @@
+ACME CORP CYBERSECURITY PLAYBOOK
+Title: Incident Response and Threat Mitigation Guide
+Document Reference: SEC-PLAY-901
+Effective Date: January 2026
+
+1. Distributed Denial of Service (DDoS) Mitigation Protocol:
+In the event of inbound network congestion exceeding 100 Gbps, immediately route traffic through Cloudflare Magic Transit. Notify the security operations center (SOC) Lead. Traffic filtering should prioritize drop rules for NTP and SSDP amplification sources.
+
+2. Ransomware Containment:
+When a host is identified as infected:
+- Step 1: Disconnect the machine from the physical network and disable its Wi-Fi card. Do not power off the machine to preserve volatile memory.
+- Step 2: Revoke active active directory (AD) sessions for the affected user account.
+- Step 3: Run the forensic memory capture script 'forensic_dump.ps1'.
+
+3. Incident Escalation Matrix:
+- Severity 1 (Critical Infrastructure Intrusion): Escalate to Chief Information Security Officer (CISO) within 15 minutes.
+- Severity 2 (Departmental Outage / Potential Data Leak): Escalate to Security Director within 1 hour.
+- Severity 3 (Individual Machine Infection): Escalate to SOC Analyst team.
