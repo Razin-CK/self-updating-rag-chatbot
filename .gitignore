@@ -11,7 +11,8 @@ venv/
 env/
 
 # Database files
-db/chroma.sqlite3
+db/*
+!db/indexed_files.json
 db/updater.log
 
 # IDE files
